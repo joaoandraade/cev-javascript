@@ -5,7 +5,6 @@ body {
 
 header {
     color: white;
-    text-align: center;
 }
 
 section {
@@ -18,8 +17,11 @@ section {
 }
 
 div {
-    text-align: center;
     padding: 8px;
+}
+
+div#res {
+    text-align: center;
 }
 
 footer {
